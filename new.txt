@@ -1,3 +1,2 @@
-﻿the first try
-the second try
-the third try
+﻿Git is a distributed version control system.
+Git is free software distributed under the GPL.
